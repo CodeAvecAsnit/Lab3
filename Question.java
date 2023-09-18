@@ -1,4 +1,4 @@
-class ValidityChecker {
+class qustion2{
     public static void main(String[] args) {
         int[] values = {0, 1};
         System.out.println("Truth Table for the Argument:");
